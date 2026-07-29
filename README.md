@@ -69,3 +69,4 @@
 ## Материалы проекта
 
 [Открыть ноутбук с исследованием](spacecraft_telemetry_anomaly_detection.ipynb)
+[Просмотр ноутбука](spacecraft_telemetry_anomaly_detection.md)
